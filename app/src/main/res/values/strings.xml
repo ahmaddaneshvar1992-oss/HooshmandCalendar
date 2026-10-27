@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">تقویم هوشمند</string>
+    <string name="app_tagline">همه‌ی تاریخ‌ها، همیشه همراه شما</string>
+
+    <!-- نوار پایین -->
+    <string name="tab_calendar">تقویم</string>
+    <string name="tab_events">رویدادها</string>
+    <string name="tab_occasions">مناسبت‌ها</string>
+    <string name="tab_settings">تنظیمات</string>
+
+    <!-- تقویم -->
+    <string name="go_to_date">رفتن به تاریخ</string>
+    <string name="convert_date">تبدیل تاریخ</string>
+    <string name="today">امروز</string>
+    <string name="view_month">ماهانه</string>
+    <string name="view_week">هفتگی</string>
+    <string name="view_list">فهرستی</string>
+    <string name="no_events_today">رویدادی برای این روز ثبت نشده است</string>
+    <string name="add_event">افزودن رویداد</string>
+    <string name="week_number">هفته %s از سال</string>
+
+    <!-- رویداد -->
+    <string name="event_title">عنوان رویداد</string>
+    <string name="event_title_hint">جلسه با تیم</string>
+    <string name="event_date_time">تاریخ و زمان</string>
+    <string name="event_all_day">تمام‌روز</string>
+    <string name="event_start">ساعت شروع</string>
+    <string name="event_end">ساعت پایان</string>
+    <string name="event_repeat">تکرار رویداد</string>
+    <string name="event_reminder">یادآور</string>
+    <string name="event_color">رنگ رویداد</string>
+    <string name="event_description">توضیحات (اختیاری)</string>
+    <string name="event_sound">صدای یادآور</string>
+    <string name="event_vibrate">لرزش</string>
+    <string name="event_birthday">تولد / سالگرد</string>
+    <string name="save">ذخیره</string>
+    <string name="delete">حذف</string>
+    <string name="cancel">انصراف</string>
+    <string name="edit_event">ویرایش رویداد</string>
+    <string name="delete_confirm">این رویداد حذف شود؟</string>
+
+    <!-- تکرار -->
+    <string name="repeat_none">هیچ‌وقت</string>
+    <string name="repeat_daily">روزانه</string>
+    <string name="repeat_weekly">هفتگی</string>
+    <string name="repeat_monthly">ماهانه</string>
+    <string name="repeat_yearly">سالانه</string>
+
+    <!-- یادآور -->
+    <string name="reminder_none">بدون یادآور</string>
+    <string name="reminder_at_time">در زمان رویداد</string>
+    <string name="reminder_5">۵ دقیقه قبل</string>
+    <string name="reminder_10">۱۰ دقیقه قبل</string>
+    <string name="reminder_15">۱۵ دقیقه قبل</string>
+    <string name="reminder_30">۳۰ دقیقه قبل</string>
+    <string name="reminder_60">۱ ساعت قبل</string>
+    <string name="reminder_1440">۱ روز قبل</string>
+
+    <!-- جست‌وجو -->
+    <string name="search_events">جست‌وجوی رویدادها…</string>
+    <string name="search_empty">رویدادی یافت نشد</string>
+
+    <!-- مناسبت‌ها -->
+    <string name="occasions_all">همه</string>
+    <string name="occasions_official">رسمی</string>
+    <string name="occasions_religious">مذهبی</string>
+
+    <!-- تنظیمات -->
+    <string name="settings_display">نمایش</string>
+    <string name="settings_theme">حالت برنامه</string>
+    <string name="theme_system">سیستم</string>
+    <string name="theme_light">روشن</string>
+    <string name="theme_dark">تاریک</string>
+    <string name="settings_accent">پوسته رنگی</string>
+    <string name="settings_persian_digits">نمایش اعداد فارسی</string>
+    <string name="settings_show_occasions">نمایش مناسبت‌ها در تقویم</string>
+    <string name="settings_data">داده‌ها</string>
+    <string name="settings_backup">پشتیبان‌گیری از رویدادها</string>
+    <string name="settings_restore">بازیابی از فایل پشتیبان</string>
+    <string name="settings_notifications">اعلان‌ها</string>
+    <string name="settings_notification_permission">اجازه اعلان‌ها</string>
+    <string name="settings_notification_permission_granted">اعلان‌ها فعال است ✓</string>
+    <string name="settings_about">درباره برنامه</string>
+    <string name="settings_rate">امتیاز دادن در کافه‌بازار</string>
+    <string name="settings_privacy">حریم خصوصی</string>
+    <string name="privacy_text">این برنامه کاملاً آفلاین است؛ هیچ داده‌ای از شما جمع‌آوری یا ارسال نمی‌شود. رویدادها فقط در حافظه خود گوشی ذخیره می‌مانند.</string>
+    <string name="backup_done">پشتیبان‌گیری انجام شد</string>
+    <string name="restore_done">%s رویداد افزوده شد</string>
+</resources>
